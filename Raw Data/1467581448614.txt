@@ -1,0 +1,6909 @@
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467581439
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581442
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581444
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581444
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581445
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581450
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581451
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581452
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581444
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581450
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581451
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581452
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581453
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581450
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581451
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581452
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581454
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581454
+	}, {
+		"MacAddr":	"BE5244D230D1",
+		"TimeInterval":	1467581457
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581461
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581462
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"BE5244D230D1",
+		"TimeInterval":	1467581457
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581461
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581462
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581463
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581462
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581463
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581465
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581463
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581465
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581464
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581476
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581477
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581477
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581477
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581477
+	}, {
+		"MacAddr":	"84119E751C3A",
+		"TimeInterval":	1467581478
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581482
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581482
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581476
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581477
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581482
+	}, {
+		"MacAddr":	"84119E751C3A",
+		"TimeInterval":	1467581478
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581482
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581480
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581482
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581482
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581485
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581487
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581487
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581485
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581487
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581487
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581489
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581490
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581491
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581485
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581487
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467581487
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581487
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581488
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581490
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581491
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581489
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581490
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581491
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581494
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581495
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581496
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581494
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581495
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581496
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581501
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581494
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581495
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581495
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581501
+	}, {
+		"MacAddr":	"244B81E5B706",
+		"TimeInterval":	1467581502
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581503
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581501
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581503
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581504
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581504
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581507
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581503
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581504
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581504
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581507
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581512
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581504
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581504
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581507
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581510
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581512
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581513
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581510
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581514
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581513
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581514
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581514
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581514
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581515
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581516
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581519
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581514
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581514
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581519
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581519
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581527
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581528
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581530
+	}, {
+		"MacAddr":	"AAAB1D55B20A",
+		"TimeInterval":	1467581530
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581528
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581529
+	}, {
+		"MacAddr":	"AAAB1D55B20A",
+		"TimeInterval":	1467581530
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467581532
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581527
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581528
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581529
+	}, {
+		"MacAddr":	"AAAB1D55B20A",
+		"TimeInterval":	1467581530
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581535
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581534
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581536
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581541
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581534
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581536
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581539
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581541
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581541
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581545
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581545
+	}, {
+		"MacAddr":	"50FC9FCDE684",
+		"TimeInterval":	1467581552
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581552
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581545
+	}, {
+		"MacAddr":	"50FC9FCDE684",
+		"TimeInterval":	1467581552
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581552
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581552
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581554
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581554
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581556
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581556
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581554
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581554
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581556
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581556
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581558
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581559
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581560
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581554
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581554
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581556
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581556
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581558
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581559
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581560
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581561
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581559
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581559
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581560
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"82B0E4BADA5F",
+		"TimeInterval":	1467581567
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581567
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581570
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581572
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581567
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581572
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581572
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581573
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581568
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581570
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581576
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581572
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581573
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581573
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581574
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581575
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581577
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581581
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581575
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581576
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467581578
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581580
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581580
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581588
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581590
+	}, {
+		"MacAddr":	"A088697F6322",
+		"TimeInterval":	1467581590
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581588
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581589
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581589
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581590
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581596
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581596
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581598
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581601
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581602
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581596
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581598
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581602
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581599
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581601
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581602
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581607
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581607
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581607
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581607
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581612
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581613
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581608
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581612
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581613
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581616
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581616
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581613
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581614
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581615
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581615
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581616
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581620
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581615
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581616
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581619
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581623
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581619
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581624
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581624
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581625
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581626
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581623
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581624
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581626
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581626
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581627
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581629
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581631
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581624
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581626
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581627
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581628
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581629
+	}, {
+		"MacAddr":	"244B81E5B706",
+		"TimeInterval":	1467581631
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581631
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581628
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581628
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581630
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581632
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581634
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581634
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581639
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581641
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581641
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581639
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581640
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581641
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581643
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581640
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581641
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581642
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581643
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581643
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581652
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581652
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581653
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581653
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581654
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581657
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581657
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581660
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581656
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581659
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581659
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581665
+	}, {
+		"MacAddr":	"AAAB1D55B20A",
+		"TimeInterval":	1467581665
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581667
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581665
+	}, {
+		"MacAddr":	"AAAB1D55B20A",
+		"TimeInterval":	1467581665
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581666
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581671
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581664
+	}, {
+		"MacAddr":	"AAAB1D55B20A",
+		"TimeInterval":	1467581664
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581666
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581671
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581672
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581676
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"AC0D1BF859F9",
+		"TimeInterval":	1467581674
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581675
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581676
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581677
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581679
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581680
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581681
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581676
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581677
+	}, {
+		"MacAddr":	"DAA1190AC3E3",
+		"TimeInterval":	1467581677
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581680
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581680
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581680
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581682
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581683
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581678
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581680
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581680
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581683
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581687
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581688
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581688
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581690
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581690
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581692
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581687
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581688
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581688
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581690
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581690
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581691
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581693
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581688
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581689
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581689
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581690
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581690
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581691
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581692
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581694
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581694
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581699
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581700
+	}, {
+		"MacAddr":	"82B0E4BADA5F",
+		"TimeInterval":	1467581702
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581700
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581700
+	}, {
+		"MacAddr":	"7C912238E0C6",
+		"TimeInterval":	1467581700
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581703
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581699
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581701
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581704
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581705
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581705
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581703
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581704
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581705
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581710
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581711
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581704
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581704
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581711
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581711
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581711
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581711
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581716
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581716
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581717
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581717
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581722
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581715
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581718
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581718
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581722
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581718
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581718
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581723
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581726
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581725
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581729
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581730
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581725
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581729
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581731
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581729
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581731
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581734
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581737
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581733
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581736
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581741
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581734
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581737
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581742
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581743
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581742
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581743
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581746
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581743
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581745
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581747
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581752
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581752
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581746
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581748
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581751
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581753
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581753
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581748
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581751
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581753
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581754
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581756
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581757
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581754
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581754
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581756
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581756
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581757
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581762
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581754
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581755
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581756
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581757
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581757
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467581760
+	}, {
+		"MacAddr":	"244B81E5B706",
+		"TimeInterval":	1467581761
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581762
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581762
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581767
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581768
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581768
+	}, {
+		"MacAddr":	"7C5CF83CA86B",
+		"TimeInterval":	1467581772
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581768
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581769
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581769
+	}, {
+		"MacAddr":	"7C5CF83CA86B",
+		"TimeInterval":	1467581772
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581768
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581769
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581769
+	}, {
+		"MacAddr":	"7C5CF83CA86B",
+		"TimeInterval":	1467581772
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581777
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581778
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581779
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581780
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581780
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581781
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581778
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581779
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581780
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581780
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581782
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581778
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581779
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581780
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581780
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581782
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581787
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581787
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581792
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581787
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581793
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581793
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581794
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581795
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581795
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581796
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581796
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581793
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581794
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581794
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581795
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581796
+	}, {
+		"MacAddr":	"AAAB1D55B20A",
+		"TimeInterval":	1467581800
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467581801
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581794
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581795
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581795
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467581796
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581796
+	}, {
+		"MacAddr":	"AAAB1D55B20A",
+		"TimeInterval":	1467581800
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467581801
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"AAAB1D55B20A",
+		"TimeInterval":	1467581800
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467581801
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581806
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581807
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581805
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581812
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581807
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581807
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581808
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581806
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581813
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581808
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581808
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581808
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581809
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467581812
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581808
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581808
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581808
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581811
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581813
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581814
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581817
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581814
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581817
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581818
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581820
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581814
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581817
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581819
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581819
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581820
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581819
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581820
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581826
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581826
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581829
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581831
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581832
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581826
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581830
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581831
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581833
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581831
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581833
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"82B0E4BADA5F",
+		"TimeInterval":	1467581837
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581837
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581840
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581842
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581838
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581841
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581843
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581838
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581841
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581843
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581848
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581850
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581850
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581851
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581852
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581852
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581849
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581851
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581851
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581851
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581853
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581853
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581849
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581851
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581851
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581851
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581853
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581853
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581856
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581856
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581856
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467581863
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581863
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581863
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581864
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581864
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581865
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581863
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581863
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581872
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581867
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581868
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581870
+	}, {
+		"MacAddr":	"50FC9FCDE684",
+		"TimeInterval":	1467581872
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581864
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581864
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581873
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581868
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581871
+	}, {
+		"MacAddr":	"50FC9FCDE684",
+		"TimeInterval":	1467581872
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581868
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581871
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581871
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581877
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581874
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581873
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581876
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581878
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581881
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581874
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581877
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581878
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581882
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581878
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581882
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581887
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581886
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581889
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581890
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581892
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581884
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581887
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581889
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581891
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581892
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581893
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581889
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581891
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581892
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581893
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581902
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581902
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581903
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581902
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581904
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581903
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581907
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581904
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581908
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581908
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581915
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581915
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581916
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581917
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581914
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581916
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581916
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581917
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581915
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581915
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581916
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581917
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581918
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581918
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581924
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581923
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581927
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581927
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581932
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581931
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581932
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581924
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581928
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581928
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581933
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581932
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581928
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581928
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581933
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467581932
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581934
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581934
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581933
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581933
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581940
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581941
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581934
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581934
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581935
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581941
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581942
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581941
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581942
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581946
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581946
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581945
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581945
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581946
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467581946
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581958
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581959
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581959
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581959
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581963
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467581959
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467581959
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581963
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581965
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581965
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581963
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581964
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581965
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581965
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467581965
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581976
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581976
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581977
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581975
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581976
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581976
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581976
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581977
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581979
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581980
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467581976
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581976
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467581976
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467581977
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581978
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581980
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581980
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581978
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467581980
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467581980
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581986
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581986
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581987
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581988
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581990
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467581991
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467581986
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581988
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581989
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581990
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467581991
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467581988
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581989
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467581990
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467581991
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581994
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581997
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581997
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581993
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581996
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581996
+	}, {
+		"MacAddr":	"EEA5B8EAF7B8",
+		"TimeInterval":	1467581997
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582001
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582001
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467581994
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467581997
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467581997
+	}, {
+		"MacAddr":	"EEA5B8EAF7B8",
+		"TimeInterval":	1467581997
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467581999
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582001
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582002
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582003
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582001
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582002
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582003
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582004
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582003
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582003
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582010
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582010
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582004
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582010
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582011
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582010
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582011
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582014
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582016
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582014
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582015
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582014
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582016
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582026
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582027
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582026
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582027
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582028
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582026
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582027
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582029
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582029
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582036
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582036
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582039
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582041
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582036
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582042
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582040
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582042
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582045
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582046
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582047
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582045
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582045
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582047
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582049
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582051
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582052
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582044
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582045
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582046
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582048
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582049
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582051
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582053
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582048
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582049
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582053
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582054
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582054
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582055
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582055
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582053
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582054
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582055
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582055
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582059
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582054
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582054
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582055
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582055
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582059
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582059
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582066
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582067
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582065
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582067
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582069
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582070
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582072
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582066
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582067
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582070
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582070
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582073
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582070
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582070
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582073
+	}, {
+		"MacAddr":	"8056F2B18B3D",
+		"TimeInterval":	1467582074
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582075
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"8056F2B18B3D",
+		"TimeInterval":	1467582074
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582074
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582078
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582079
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"8056F2B18B3D",
+		"TimeInterval":	1467582074
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582075
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582078
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582080
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582078
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582091
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582092
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582091
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582093
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582091
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582093
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582095
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582095
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582096
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582094
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582095
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582096
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582100
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582095
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582095
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582097
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582100
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582100
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582104
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582105
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582107
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582103
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582105
+	}, {
+		"MacAddr":	"82B0E4BADA5F",
+		"TimeInterval":	1467582106
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582107
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582111
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582104
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582105
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582108
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582111
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582111
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582114
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582115
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582117
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582113
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582114
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582116
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582118
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582121
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582114
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582115
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582117
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582118
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582122
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582118
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582122
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582124
+	}, {
+		"MacAddr":	"4242F711B459",
+		"TimeInterval":	1467582126
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582123
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582124
+	}, {
+		"MacAddr":	"4242F711B459",
+		"TimeInterval":	1467582125
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582129
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582130
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582124
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582124
+	}, {
+		"MacAddr":	"4242F711B459",
+		"TimeInterval":	1467582126
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582129
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582131
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582129
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582131
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582138
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582138
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582139
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582142
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582139
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582139
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582140
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582142
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582143
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582139
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582139
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582140
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582142
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582143
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582144
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582145
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582143
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582143
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582145
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582144
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582145
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582156
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582155
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582156
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582162
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582156
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582162
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582162
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582166
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582167
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582165
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582167
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582172
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582166
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582168
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582172
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582172
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582174
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582175
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582177
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582177
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582173
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582174
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582176
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582177
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582174
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582175
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582177
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582178
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582184
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582185
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582186
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582184
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582184
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582185
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582187
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582191
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582190
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582184
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582185
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582186
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582188
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582193
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582190
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582193
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582188
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582191
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582190
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582193
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582193
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582197
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582200
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582202
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582202
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582197
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582198
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582202
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582203
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582202
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582203
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582207
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582207
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582207
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582213
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582213
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582215
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582216
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582217
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582214
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582216
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582216
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582215
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582216
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582217
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582226
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582227
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582227
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582227
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582227
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582229
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582225
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582226
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582227
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582228
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582228
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582229
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582228
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582229
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582234
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582234
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582235
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582233
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582235
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582235
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582238
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582241
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582241
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582234
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582234
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582235
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582239
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582240
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582241
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582239
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582240
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582241
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582252
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582252
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582253
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582252
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582253
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582253
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582254
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582253
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582254
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582259
+	}, {
+		"MacAddr":	"4242F711B459",
+		"TimeInterval":	1467582261
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582262
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582254
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582259
+	}, {
+		"MacAddr":	"4242F711B459",
+		"TimeInterval":	1467582261
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582262
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582259
+	}, {
+		"MacAddr":	"4242F711B459",
+		"TimeInterval":	1467582261
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582262
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582264
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582266
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582267
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582265
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582265
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582267
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582271
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582264
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582266
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582267
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582270
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582273
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582276
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582276
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582277
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582276
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582276
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582278
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582281
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582279
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582280
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582275
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582276
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582277
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582282
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582279
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582280
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582279
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582280
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582280
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582283
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582287
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582288
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582290
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582290
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582292
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582287
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582289
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582290
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582291
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582293
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582290
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582290
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582291
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582294
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582296
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582294
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582296
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582303
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582296
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582302
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582303
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582304
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582304
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582305
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582305
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582311
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582313
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582304
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582304
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582305
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582310
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582312
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582310
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582311
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582317
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582316
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582317
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582323
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582316
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582317
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582322
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582323
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582324
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582325
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582325
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582326
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582329
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582330
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582331
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582324
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582325
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582328
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582329
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582330
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582333
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582328
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582330
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582330
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582333
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582335
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582336
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582342
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582343
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582335
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582341
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582342
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582343
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582341
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582343
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582345
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582347
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582344
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582345
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582348
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582351
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582352
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582344
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582347
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582350
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582351
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582353
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582350
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582352
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582354
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582355
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582354
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582356
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582363
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582355
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582361
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582362
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582363
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582365
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582367
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582365
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582367
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582369
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582370
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582371
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582372
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582365
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582366
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582368
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582370
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582370
+	}, {
+		"MacAddr":	"2055314014F4",
+		"TimeInterval":	1467582370
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582371
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582373
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582368
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582370
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582370
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582371
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582373
+	}, {
+		"MacAddr":	"7C5CF83CA86B",
+		"TimeInterval":	1467582376
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582374
+	}, {
+		"MacAddr":	"7C5CF83CA86B",
+		"TimeInterval":	1467582377
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582380
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582381
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582374
+	}, {
+		"MacAddr":	"7C5CF83CA86B",
+		"TimeInterval":	1467582376
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582379
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582381
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582379
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582381
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582392
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582393
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582393
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582392
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582393
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582392
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582394
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582396
+	}, {
+		"MacAddr":	"4242F711B459",
+		"TimeInterval":	1467582396
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582394
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582396
+	}, {
+		"MacAddr":	"4242F711B459",
+		"TimeInterval":	1467582396
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582399
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582400
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582395
+	}, {
+		"MacAddr":	"4242F711B459",
+		"TimeInterval":	1467582395
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582399
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582399
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582399
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582399
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582405
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582406
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582405
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582413
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582411
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582405
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582413
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582406
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582410
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582413
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582413
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582410
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582411
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582413
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582413
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582414
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582415
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582415
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582414
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582414
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582415
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582416
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582417
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582418
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582420
+	}, {
+		"MacAddr":	"38AA3C3DBBC6",
+		"TimeInterval":	1467582422
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582415
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582415
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582416
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582417
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582419
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582421
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582418
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582419
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582431
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582432
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582432
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582430
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582431
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582432
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582430
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582432
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582432
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582436
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582436
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582436
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582436
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582436
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582437
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582440
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582442
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582435
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582436
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582436
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582441
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582443
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582441
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582443
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582445
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582445
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582444
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582445
+	}, {
+		"MacAddr":	"E458E7814EDE",
+		"TimeInterval":	1467582449
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582454
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582456
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582456
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582455
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582456
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582456
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582461
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582462
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582454
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582455
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582455
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582456
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582460
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582461
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582463
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582460
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582461
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582463
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582465
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582467
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582464
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582467
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582469
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582469
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582470
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582471
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582467
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582468
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582468
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582470
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582471
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582473
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582473
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582468
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582468
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582470
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582473
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582474
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582474
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582474
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582480
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582482
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582483
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582479
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582481
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582482
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582480
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582481
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582482
+	}, {
+		"MacAddr":	"E458E7814EDE",
+		"TimeInterval":	1467582484
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"E458E7814EDE",
+		"TimeInterval":	1467582485
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582490
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"E458E7814EDE",
+		"TimeInterval":	1467582484
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582489
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582499
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582500
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582503
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582503
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582498
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582499
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582502
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582502
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582499
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582502
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582502
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582504
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582505
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582504
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582506
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582509
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582512
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582504
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582505
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582508
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582513
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582509
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582513
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582517
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582513
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582517
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582518
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582515
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582516
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582517
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582518
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582528
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582528
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582532
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582531
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582531
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582527
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582528
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582530
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582531
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582534
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582534
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582534
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582534
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582528
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582528
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582529
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582533
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582530
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582531
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582533
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582533
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582534
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582537
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582537
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582533
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582533
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582534
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582534
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582534
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582537
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582538
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582538
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582541
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582537
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582537
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582541
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582542
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582541
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582542
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582543
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582551
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582552
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582552
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582552
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582554
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582551
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582551
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582553
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582555
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582554
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582555
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582562
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582556
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582564
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582562
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582562
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582561
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582562
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582566
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582565
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582566
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582563
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582565
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582566
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582568
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582571
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582565
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582566
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582567
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582568
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582571
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582568
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582570
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582576
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582577
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582576
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582578
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582579
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582581
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582582
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582577
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582578
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582580
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582581
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582582
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582579
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582580
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582582
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582592
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582592
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582591
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582592
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582593
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582594
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582594
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582594
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582592
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582592
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582593
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582593
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582593
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582594
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582596
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582594
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582594
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582594
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582596
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582600
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582596
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582600
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582599
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582600
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582604
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582606
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582606
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582605
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582606
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582607
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582605
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582607
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582607
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582607
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582608
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582617
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582618
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582619
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582620
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582621
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582618
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582619
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582620
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582622
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582619
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582619
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582621
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582624
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582625
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582630
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582632
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582625
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582631
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582631
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582632
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582630
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582630
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582632
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582635
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582635
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582637
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582635
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582636
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582638
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582639
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582642
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582635
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582636
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582638
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582638
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582639
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582642
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582641
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"82B0E4BADA5F",
+		"TimeInterval":	1467582647
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582653
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582653
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582654
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582654
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582653
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582653
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582654
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582655
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582656
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582656
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582657
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582657
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582653
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582654
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582654
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582655
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582655
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582656
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582656
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582657
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582660
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582656
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582656
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582657
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582658
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582661
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582660
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582666
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582666
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582667
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582666
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582666
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582668
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582669
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582666
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582667
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582668
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582669
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582668
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582669
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582675
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582677
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582675
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582677
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582678
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582679
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582680
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582676
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582678
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582679
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582681
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582678
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582680
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582687
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582688
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582692
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"7C1DD964A3CB",
+		"TimeInterval":	1467582686
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582688
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582689
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582692
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582693
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582688
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582691
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582693
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582693
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582698
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582702
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582702
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582698
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582702
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582702
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582698
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582701
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582702
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582704
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582705
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582704
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582704
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582706
+	}, {
+		"MacAddr":	"7C1DD964A3CB",
+		"TimeInterval":	1467582708
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582712
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582705
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582706
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582712
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582712
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582714
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582714
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582711
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582713
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582713
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582717
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582714
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582714
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582717
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582719
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582720
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582720
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582716
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582717
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582719
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582720
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582721
+	}, {
+		"MacAddr":	"06D93FDCCDF1",
+		"TimeInterval":	1467582721
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582723
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582724
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582718
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582719
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582720
+	}, {
+		"MacAddr":	"06D93FDCCDF1",
+		"TimeInterval":	1467582720
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582722
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582723
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582723
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582724
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582728
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582730
+	}, {
+		"MacAddr":	"7C1DD964A3CB",
+		"TimeInterval":	1467582731
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582731
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582729
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582730
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582731
+	}, {
+		"MacAddr":	"7C1DD964A3CB",
+		"TimeInterval":	1467582731
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582732
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582728
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582729
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582731
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582738
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582738
+	}, {
+		"MacAddr":	"7C1DD964A3CB",
+		"TimeInterval":	1467582742
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582743
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582744
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582744
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582744
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582738
+	}, {
+		"MacAddr":	"7C1DD964A3CB",
+		"TimeInterval":	1467582742
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582742
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582744
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582744
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582743
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582744
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582744
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582750
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582750
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582750
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582755
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582756
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582757
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582757
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582757
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582755
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582756
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582757
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582757
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582758
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582756
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582757
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582758
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582758
+	}, {
+		"MacAddr":	"3423BAE1C0E5",
+		"TimeInterval":	1467582764
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582765
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582765
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582765
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582765
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582768
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582769
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582770
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582765
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582766
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582768
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582769
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582770
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582774
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582768
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582768
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582769
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582773
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582774
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582781
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582778
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582781
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582782
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582783
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582783
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582781
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582782
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582782
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582786
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582783
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582783
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582785
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582786
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582786
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582786
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582789
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582794
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582793
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582795
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582794
+	}, {
+		"MacAddr":	"7C1DD964A3CB",
+		"TimeInterval":	1467582795
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582795
+	}, {
+		"MacAddr":	"A088697F6322",
+		"TimeInterval":	1467582796
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582801
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582796
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582802
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582801
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582806
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582807
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582807
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582807
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582812
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582810
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582812
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582807
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582808
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582814
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582810
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582813
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582813
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582808
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582810
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582813
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582812
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582812
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582816
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582817
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"7C1DD964A3CB",
+		"TimeInterval":	1467582813
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582813
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582813
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582817
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582818
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582821
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582817
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582818
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582821
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582818
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582819
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582820
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582826
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582827
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582829
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582832
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582827
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582829
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582832
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582834
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582834
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582834
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582828
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582831
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582833
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582833
+	}, {
+		"MacAddr":	"2EF47023079B",
+		"TimeInterval":	1467582834
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582835
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582833
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582834
+	}, {
+		"MacAddr":	"2EF47023079B",
+		"TimeInterval":	1467582834
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582836
+	}, {
+		"MacAddr":	"2EF47023079B",
+		"TimeInterval":	1467582838
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582836
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582843
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"2EF47023079B",
+		"TimeInterval":	1467582838
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582842
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582844
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582846
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582843
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582845
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582846
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582851
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582845
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582847
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582852
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582851
+	}, {
+		"MacAddr":	"06D93FDCCDF1",
+		"TimeInterval":	1467582855
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582855
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582857
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"06D93FDCCDF1",
+		"TimeInterval":	1467582856
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582856
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582858
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582858
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582859
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"06D93FDCCDF1",
+		"TimeInterval":	1467582856
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582856
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582858
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582858
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582859
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582860
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582859
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582870
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582872
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582870
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582872
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582870
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582871
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582874
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582875
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582876
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582877
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582875
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582875
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582877
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582877
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582882
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582875
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582875
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582877
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582877
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582878
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582880
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582882
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582881
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10A5D050D0D3",
+		"TimeInterval":	1467582888
+	}, {
+		"MacAddr":	"3423BAE1C0E5",
+		"TimeInterval":	1467582889
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582892
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582892
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"3423BAE1C0E5",
+		"TimeInterval":	1467582889
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582892
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582892
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582894
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582894
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"3423BAE1C0E5",
+		"TimeInterval":	1467582888
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582891
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582891
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582893
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582893
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582895
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582896
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582897
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467582897
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582894
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582894
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582895
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582897
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467582898
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582899
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582901
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582896
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467582897
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467582898
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582899
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582901
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582903
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582899
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582900
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582902
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582904
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582904
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582906
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582903
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582905
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582905
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582906
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582910
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582905
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582905
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582906
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582910
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467582909
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582917
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582917
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582917
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582918
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582919
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582917
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582918
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582919
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582923
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582919
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582930
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582931
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467582925
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582930
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467582931
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582932
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582930
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582931
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582937
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582938
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582938
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467582938
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467582939
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582944
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582944
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582946
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582946
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582947
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582944
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582946
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582947
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582948
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582951
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467582946
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582947
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467582948
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582951
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582953
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582954
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467582950
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582953
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582953
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582954
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582956
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582953
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467582954
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582955
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582957
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582955
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467582957
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582963
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582964
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582962
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582964
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467582963
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467582964
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582971
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467582972
+	}, {
+		"MacAddr":	"8056F2B18B3D",
+		"TimeInterval":	1467582974
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"8056F2B18B3D",
+		"TimeInterval":	1467582974
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582975
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582977
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"8056F2B18B3D",
+		"TimeInterval":	1467582974
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582976
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582977
+	}, {
+		"MacAddr":	"7C5CF83CA86B",
+		"TimeInterval":	1467582981
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582982
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582976
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582978
+	}, {
+		"MacAddr":	"7C5CF83CA86B",
+		"TimeInterval":	1467582981
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582982
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"7C5CF83CA86B",
+		"TimeInterval":	1467582980
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467582981
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582989
+	}, {
+		"MacAddr":	"54724F377D62",
+		"TimeInterval":	1467582989
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582989
+	}, {
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467582990
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582990
+	}, {
+		"MacAddr":	"06D93FDCCDF1",
+		"TimeInterval":	1467582991
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582992
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582989
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582989
+	}, {
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467582990
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582990
+	}, {
+		"MacAddr":	"06D93FDCCDF1",
+		"TimeInterval":	1467582991
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582992
+	}, {
+		"MacAddr":	"54724F377D62",
+		"TimeInterval":	1467582994
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582988
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467582989
+	}, {
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467582989
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467582990
+	}, {
+		"MacAddr":	"06D93FDCCDF1",
+		"TimeInterval":	1467582990
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467582991
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582997
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"54724F377D62",
+		"TimeInterval":	1467582994
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582998
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467583000
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583001
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467582998
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467583000
+	}, {
+		"MacAddr":	"54724F377D62",
+		"TimeInterval":	1467583000
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583002
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467583003
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583003
+	}, {
+		"MacAddr":	"54724F377D62",
+		"TimeInterval":	1467583004
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467583004
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467583000
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583001
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467583002
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583004
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467583003
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583003
+	}, {
+		"MacAddr":	"54724F377D62",
+		"TimeInterval":	1467583003
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467583004
+	}, {
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467583009
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467583010
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467583014
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583014
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467583009
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467583013
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583014
+	}, {
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467583014
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467583015
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583015
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467583014
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583014
+	}, {
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467583015
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467583015
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583016
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467583019
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467583020
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467583021
+	}, {
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467583021
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467583015
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467583015
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467583016
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583016
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467583017
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467583019
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467583020
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467583021
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467583021
+	}, {
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467583021
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467583023
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467583024
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467583020
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467583021
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467583021
+	}, {
+		"MacAddr":	"9C2A83D576F5",
+		"TimeInterval":	1467583021
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467583023
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467583025
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583027
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467583023
+	}, {
+		"MacAddr":	"00215DCC5618",
+		"TimeInterval":	1467583024
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583027
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583029
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583027
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583029
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467583033
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467583033
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467583034
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583029
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467583033
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467583035
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467583037
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467583033
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467583034
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467583036
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467583038
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583040
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583041
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467583037
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467583038
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583040
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583042
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467583039
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583040
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583042
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467583047
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467583047
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583052
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467583047
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583053
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583054
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583053
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583055
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467583058
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583053
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583054
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467583057
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467583059
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467583062
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467583058
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467583059
+	}, {
+		"MacAddr":	"145A051B694A",
+		"TimeInterval":	1467583061
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467583062
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467583059
+	}, {
+		"MacAddr":	"14CC20CEC547",
+		"TimeInterval":	1467583062
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583066
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583067
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"D4F46FDF3B19",
+		"TimeInterval":	1467583065
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583065
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583067
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583066
+	}, {
+		"MacAddr":	"6C8B2FAD77C0",
+		"TimeInterval":	1467583067
+	}, {
+		"MacAddr":	"6C8B2FAD77C0",
+		"TimeInterval":	1467583072
+	}, {
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467583074
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467583074
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467583078
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"002401A53117",
+		"TimeInterval":	1467583074
+	}, {
+		"MacAddr":	"7E395F6CE190",
+		"TimeInterval":	1467583077
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467583077
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467583078
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583078
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467583079
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583080
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467583082
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"7E395F6CE190",
+		"TimeInterval":	1467583077
+	}, {
+		"MacAddr":	"50B7C345F8D8",
+		"TimeInterval":	1467583078
+	}, {
+		"MacAddr":	"1C9E4695FF28",
+		"TimeInterval":	1467583078
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583078
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467583079
+	}, {
+		"MacAddr":	"0002B62297B2",
+		"TimeInterval":	1467583080
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583080
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467583082
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467583083
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583079
+	}, {
+		"MacAddr":	"7CFADF0814BF",
+		"TimeInterval":	1467583080
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583080
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467583082
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467583083
+	}, {
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467583084
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467583085
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467583088
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467583088
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"10FEED93AEF5",
+		"TimeInterval":	1467583083
+	}, {
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467583085
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467583088
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467583088
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583091
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583092
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"001E6566D668",
+		"TimeInterval":	1467583085
+	}, {
+		"MacAddr":	"E8DE277D9E50",
+		"TimeInterval":	1467583088
+	}, {
+		"MacAddr":	"6067203F6760",
+		"TimeInterval":	1467583088
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583091
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583091
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583093
+	}, {
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467583094
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467583096
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"60E3278984EC",
+		"TimeInterval":	1467583094
+	}, {
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467583096
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467583101
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"207C8F7CD4ED",
+		"TimeInterval":	1467583096
+	}, {
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467583102
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583104
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"001E65EC0D9C",
+		"TimeInterval":	1467583102
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583104
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467583106
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583106
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583104
+	}, {
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467583105
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583112
+	}, {
+		"MacAddr":	"26FAD82B9376",
+		"TimeInterval":	1467583109
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467583109
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467583111
+	}]}
+{"cbid":"1a:16:b3:61:4d:ef:00:00:10:10:01:7C","mac_info":[{
+		"MacAddr":	"00216B5D422A",
+		"TimeInterval":	1467583105
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583105
+	}, {
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467583110
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467583111
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467583112
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583114
+	}]}
+{"cbid":"6f:64:a1:99:56:dc:00:00:10:10:0B:C0","mac_info":[{
+		"MacAddr":	"342387BE6A4A",
+		"TimeInterval":	1467583110
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467583112
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583112
+	}, {
+		"MacAddr":	"6466B33B1B70",
+		"TimeInterval":	1467583113
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583118
+	}]}
+{"cbid":"a7:f0:d7:c0:57:f1:00:00:10:10:02:B0","mac_info":[{
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583114
+	}, {
+		"MacAddr":	"1C7EE55FBDDF",
+		"TimeInterval":	1467583118
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467583119
+	}, {
+		"MacAddr":	"30B5C21EA3CD",
+		"TimeInterval":	1467583120
+	}]}
